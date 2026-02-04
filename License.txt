@@ -1,4 +1,4 @@
-Copyright (c) 2022-2023 Imageomics
+Copyright (c) 2022-2025 Imageomics
 
 Copyright (c) 2020 Patrick Esser and Robin Rombach and Björn Ommer
 
